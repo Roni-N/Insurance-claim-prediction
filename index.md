@@ -8,8 +8,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+
+
 
 # Insurance claims prediction project.
 This project is a supervised learning classification task based on structured data.
@@ -85,7 +85,8 @@ Grid search
 And more
 
 
-
+```markdown
+Syntax highlighted code block
 
 
 
